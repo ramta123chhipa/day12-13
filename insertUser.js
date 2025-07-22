@@ -1,12 +1,3 @@
-// const {Client} = require('pg')
-// const Client = new Client({
-//     user: postgres,
-//     password: ramta@123,
-//     host: localhost,
-//     port: 5432,
-//     database: practice_DB
-
-// })
 
 const prompt = require('prompt-sync')();
 const pool = require('./db');
