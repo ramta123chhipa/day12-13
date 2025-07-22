@@ -1,12 +1,3 @@
-    // const { Client } = require('pg');
-
-    // const client = new Client({
-    //     host: 'localhost',
-    //     user: 'postgres', // Your PostgreSQL username
-    //     port: 5432,
-    //     password: 'ramta@123', // Your PostgreSQL password
-    //     database: 'practice_DB', // The database you created
-    // });
 
     // async function connectAndQuery() {
     //     try {
